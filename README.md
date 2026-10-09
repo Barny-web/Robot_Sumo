@@ -17,7 +17,7 @@ No limit; costs must be documented.
 ## Inspirations
 
 Well, we're gonna add something like a charge, I took the inspiration from Metal Sonic's "Outcome Memories".
-![Metal Sonic](imagenes_carpeta/EpicMetalRender.jpg)
+![Metal Sonic](Pictures/EpicMetalRender.jpg)
 
 
 He has the ability "Destructive Charge"
