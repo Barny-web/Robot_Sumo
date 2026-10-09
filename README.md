@@ -1,5 +1,5 @@
 # Robot_Sumo_MX
-# Robot_Sumo_MX
+
 It's a proyect about our Sumo, we save information about it!!!
 ## Rules 
 - **1. Maximum initial size** 
