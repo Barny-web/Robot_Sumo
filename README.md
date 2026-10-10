@@ -14,6 +14,11 @@ Autonomous, without human intervention or external communication during the roun
 Free; cameras, any sensor, 3D printing, CNC, PCB, and other techniques are permitted.
   -  **6. Budget** 
 No limit; costs must be documented.
+- **Own development.**
+- **Inspection and changes.**
+
+### Combat Rules 
+
 ## Inspirations
 
 Well, we're gonna add something like a charge, I took the inspiration from Metal Sonic's "Outcome Memories".
