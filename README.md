@@ -1,4 +1,4 @@
-# Robot_Sumo_MX
+# Robot_Sumo_Syntax Error 
 
 It's a proyect about our Sumo, we save information about it!!!
 ## Rules 
