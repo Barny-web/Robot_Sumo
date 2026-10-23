@@ -27,7 +27,7 @@ Well, we're gonna add something like a charge, I took the inspiration from Metal
 
 He has the ability "Destructive Charge", we're adding this to the Sumo in some way.
 
-## 
+## First ideas
 
 
 
