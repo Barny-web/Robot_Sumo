@@ -21,4 +21,5 @@
   ![Button](pictures/images_1.jpg)
 
   # Electronica
-
+## Pin-Out (fase 1)
+![Circuito_Fase_beta](pictures/Pin-Out(Fase_1))
